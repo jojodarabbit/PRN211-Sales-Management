@@ -1,0 +1,60 @@
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT\Sem5-FALL2022\PRN211\Assignment\SalesManagementSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FPT\Ky 5\PRN211\Resources\SalesManagementSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\PC\Desktop\PE\SalesManagementSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Admin\Desktop\SalesManagementSolution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
